@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:#D8D8D8;
+	font-family:Segoe UI;
+}
+
+h1,h2,h3,h4,h5{
+	margin-bottom:10px;
+}
+
+#center{
+	position: absolute;
+    	left: 50%;
+   	top: 50%;
+    	transform: translate(-50%, -50%);
+    	-webkit-transform: translate(-50%, -50%);
+    	background:#F2F2F2;
+    	padding:20px;
+}
+
+#col{
+	height:auto;
+	display:block;
+	float:left;
+	margin:5px;
+}
+
+input[type=text], input[type=password]{
+	padding:10px;
+	font-size:15px;
+	outline:0;
+	margin:5px;
+}
+
+input[type=submit]{
+	font-size:15px;
+	padding:5px;
+	margin-top:5px;
+}
