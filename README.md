@@ -1,4 +1,4 @@
-# ImageHosting-Web
+# ImageHosting
 An image hosting with account creation.
 
 ### Owner/Creator
